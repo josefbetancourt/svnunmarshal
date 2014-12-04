@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<logentry revision="20950">
+		<author>jbetancourt</author>
+		<date>2014-11-10T20:12:11.910891Z</date>
+		<paths>
+			<path text-mods="false" kind="file" action="D" prop-mods="false">/2014/Acme/branches/rabbit-trap/www/images/beep.png
+			</path>
+		</paths>
+		<msg>initial commit</msg>
+	</logentry>
+	<logentry revision="20948">
+		<author>jbetancourt</author>
+		<date>2014-11-10T19:55:58.629641Z</date>
+		<paths>
+			<path text-mods="false" kind="file" action="D" prop-mods="false">/2014/Acme/branches/rabbit-trap/www/images/desert.png
+			</path>
+		</paths>
+		<msg>changed icon tint</msg>
+	</logentry>
+	<logentry revision="20942">
+		<author>jbetancourt</author>
+		<date>2014-11-10T15:30:08.770266Z</date>
+		<paths>
+			<path action="M" prop-mods="false" text-mods="true" kind="file">/2014/Acme/branches/rabbit-trap/www/scripts/acme/traps/rocket.js
+			</path>
+			<path action="M" prop-mods="false" text-mods="true" kind="file">/2014/Acme/branches/rabbit-trap/www/scripts/acme/traps/sled.js
+			</path>
+		</paths>
+		<msg>Added 'use strict'.</msg>
+	</logentry>
+	<logentry revision="20941">
+		<author>rsmith</author>
+		<date>2014-11-10T15:20:41.707766Z</date>
+		<paths>
+			<path action="M" prop-mods="false" text-mods="true" kind="file">/2014/Acme/branches/rabbit-trap/www/ads/umbrella/promo.html
+			</path>
+			<path action="A" prop-mods="true" text-mods="true" kind="file">/2014/Acme/branches/rabbit-trap/www/ads/images/umbrella.jpg
+			</path>
+		</paths>
+		<msg>promotion Merge</msg>
+	</logentry>
+</log>
